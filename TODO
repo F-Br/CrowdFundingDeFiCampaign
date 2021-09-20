@@ -1,0 +1,4 @@
+Add tests
+Add sender deposit
+Add way to check if link's website (actual html doc) matches hash
+Add contract which can record all of the campaign contracts and can create them (similar to storing all the available campaigns)
